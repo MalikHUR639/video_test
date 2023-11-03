@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>React Player Example</h1>
       <ReactPlayer
-      url="https://res.cloudinary.com/dufokqlnr/video/upload/v1699022248/IQLAND-Explainer_v78ted.mp4"
+      url="https://res.cloudinary.com/didgwmfr7/video/upload/v1699023114/bead1lzt1qztbhuuwdzq.mp4"
       width={'100%'}
       height="auto"
       controls={true} // Show playback controls
